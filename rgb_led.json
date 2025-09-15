@@ -10208,7 +10208,7 @@
       "attributes": {
         "hdlname": "top",
         "top": "00000000000000000000000000000001",
-        "src": "rgb_led.sv:1.1-46.10"
+        "src": "rgb_led.sv:1.1-50.10"
       },
       "parameter_default_values": {
         "interval": "00000000000111101000010010000000"
@@ -10240,7 +10240,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:25.66-25.119"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:25.66-25.119"
           },
           "port_directions": {
             "C": "input",
@@ -10315,7 +10315,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:25.66-25.119"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:25.66-25.119"
           },
           "port_directions": {
             "C": "input",
@@ -10740,7 +10740,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:25.66-25.119"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:25.66-25.119"
           },
           "port_directions": {
             "C": "input",
@@ -10765,7 +10765,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -10788,7 +10788,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -10811,7 +10811,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -10834,7 +10834,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10857,7 +10857,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10880,7 +10880,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -10903,7 +10903,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10926,7 +10926,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -10949,7 +10949,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -10972,7 +10972,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -10995,7 +10995,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11018,7 +11018,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11041,7 +11041,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11064,7 +11064,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11087,7 +11087,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11110,7 +11110,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11133,7 +11133,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11156,7 +11156,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11179,7 +11179,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11202,7 +11202,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11225,7 +11225,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11248,7 +11248,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11271,7 +11271,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11294,7 +11294,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11317,7 +11317,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11340,7 +11340,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11363,7 +11363,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11386,7 +11386,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11409,7 +11409,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11432,7 +11432,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11455,7 +11455,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11478,7 +11478,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11501,7 +11501,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11524,7 +11524,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11547,7 +11547,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11570,7 +11570,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11593,7 +11593,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11616,7 +11616,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11639,7 +11639,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11662,7 +11662,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11685,7 +11685,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11708,7 +11708,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11731,7 +11731,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11754,7 +11754,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11777,7 +11777,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11800,7 +11800,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11823,7 +11823,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11846,7 +11846,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11869,7 +11869,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11892,7 +11892,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11915,7 +11915,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -11938,7 +11938,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -11961,7 +11961,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -11984,7 +11984,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12007,7 +12007,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12030,7 +12030,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12053,7 +12053,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12076,7 +12076,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12099,7 +12099,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12122,7 +12122,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12145,7 +12145,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12168,7 +12168,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12191,7 +12191,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12214,7 +12214,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12237,7 +12237,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12260,7 +12260,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12283,7 +12283,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12306,7 +12306,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12329,7 +12329,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12352,7 +12352,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12377,7 +12377,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12425,7 +12425,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12448,7 +12448,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12471,7 +12471,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12494,7 +12494,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12517,7 +12517,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12540,7 +12540,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12563,7 +12563,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12586,7 +12586,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12609,7 +12609,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12632,7 +12632,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12655,7 +12655,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12678,7 +12678,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12701,7 +12701,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12724,7 +12724,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12747,7 +12747,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12770,7 +12770,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12793,7 +12793,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12816,7 +12816,7 @@
           "attributes": {
             "always_ff": "00000000000000000000000000000001",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:16.5-41.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
+            "src": "rgb_led.sv:20.5-45.8|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/ff_map.v:19.59-19.105"
           },
           "port_directions": {
             "C": "input",
@@ -12839,7 +12839,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12862,7 +12862,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12885,7 +12885,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/cells_map.v:26.33-27.52"
           },
           "port_directions": {
             "I0": "input",
@@ -12908,7 +12908,7 @@
           "parameters": {
           },
           "attributes": {
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4"
           },
           "port_directions": {
             "CI": "input",
@@ -12929,7 +12929,7 @@
           "hide_name": 0,
           "bits": [ 3 ],
           "attributes": {
-            "src": "rgb_led.sv:3.21-3.26"
+            "src": "rgb_led.sv:5.21-5.26"
           }
         },
         "RGB_B_SB_DFFESS_Q_E": {
@@ -12948,7 +12948,7 @@
           "hide_name": 0,
           "bits": [ 5 ],
           "attributes": {
-            "src": "rgb_led.sv:5.21-5.26"
+            "src": "rgb_led.sv:7.21-7.26"
           }
         },
         "RGB_G_SB_DFFESS_Q_E": {
@@ -13011,7 +13011,7 @@
           "hide_name": 0,
           "bits": [ 4 ],
           "attributes": {
-            "src": "rgb_led.sv:4.21-4.26"
+            "src": "rgb_led.sv:6.21-6.26"
           }
         },
         "RGB_R_SB_LUT4_O_I3": {
@@ -13027,14 +13027,14 @@
           "hide_name": 0,
           "bits": [ 2 ],
           "attributes": {
-            "src": "rgb_led.sv:2.21-2.24"
+            "src": "rgb_led.sv:4.21-4.24"
           }
         },
         "counter": {
           "hide_name": 0,
           "bits": [ 50, 49, 48, 47, 54, 53, 52, 51, 42, 41, 40, 39, 46, 45, 44, 43, 38, 37, 36, 35, 26, 25, 24, 23, 30, 29, 28, 27, 34, 33, 32, 31 ],
           "attributes": {
-            "src": "rgb_led.sv:8.18-8.25"
+            "src": "rgb_led.sv:12.18-12.25"
           }
         },
         "counter_SB_DFFSR_Q_10_D": {
@@ -13048,7 +13048,7 @@
           "bits": [ 59 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_11_D": {
@@ -13062,7 +13062,7 @@
           "bits": [ 60 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_12_D": {
@@ -13076,7 +13076,7 @@
           "bits": [ 62 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_13_D": {
@@ -13090,7 +13090,7 @@
           "bits": [ 64 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_14_D": {
@@ -13104,7 +13104,7 @@
           "bits": [ 66 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_15_D": {
@@ -13118,7 +13118,7 @@
           "bits": [ 68 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_16_D": {
@@ -13132,7 +13132,7 @@
           "bits": [ 70 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_17_D": {
@@ -13146,7 +13146,7 @@
           "bits": [ 72 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_18_D": {
@@ -13160,7 +13160,7 @@
           "bits": [ 74 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_19_D": {
@@ -13174,7 +13174,7 @@
           "bits": [ 76 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_1_D": {
@@ -13188,7 +13188,7 @@
           "bits": [ 79 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_20_D": {
@@ -13202,7 +13202,7 @@
           "bits": [ 78 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_21_D": {
@@ -13216,7 +13216,7 @@
           "bits": [ 83 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_22_D": {
@@ -13230,7 +13230,7 @@
           "bits": [ 85 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_23_D": {
@@ -13244,7 +13244,7 @@
           "bits": [ 87 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_24_D": {
@@ -13258,7 +13258,7 @@
           "bits": [ 89 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_25_D": {
@@ -13272,7 +13272,7 @@
           "bits": [ 91 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_26_D": {
@@ -13286,7 +13286,7 @@
           "bits": [ 93 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_27_D": {
@@ -13300,7 +13300,7 @@
           "bits": [ 95 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_28_D": {
@@ -13314,7 +13314,7 @@
           "bits": [ 97 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_29_D": {
@@ -13328,7 +13328,7 @@
           "bits": [ 99 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_2_D": {
@@ -13342,7 +13342,7 @@
           "bits": [ 80 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_30_D": {
@@ -13368,7 +13368,7 @@
           "bits": [ 101 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_4_D": {
@@ -13382,7 +13382,7 @@
           "bits": [ 105 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_5_D": {
@@ -13396,7 +13396,7 @@
           "bits": [ 107 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_6_D": {
@@ -13410,7 +13410,7 @@
           "bits": [ 109 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_7_D": {
@@ -13424,7 +13424,7 @@
           "bits": [ 111 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_8_D": {
@@ -13438,7 +13438,7 @@
           "bits": [ 113 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_9_D": {
@@ -13452,7 +13452,7 @@
           "bits": [ 115 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         },
         "counter_SB_DFFSR_Q_D": {
@@ -13466,7 +13466,7 @@
           "bits": [ 117 ],
           "attributes": {
             "abc9_carry": "00000000000000000000000000000001",
-            "src": "rgb_led.sv:39.24-39.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
+            "src": "rgb_led.sv:43.24-43.35|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/arith_map.v:62.5-70.4|/home/rohanbendapudi/oss-cad-suite/lib/../share/yosys/ice40/abc9_model.v:4.9-4.11"
           }
         }
       }
